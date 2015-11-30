@@ -5,7 +5,7 @@
  * Victor Dias
  */
 
-package com.temdisponivel.retrorace.colortraffic.model;
+package com.temdisponivel.colortraffic.model;
 
 import android.content.Context;
 import android.graphics.Canvas;

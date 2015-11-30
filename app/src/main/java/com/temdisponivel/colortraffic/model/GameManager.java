@@ -5,12 +5,11 @@
  * Victor Dias
  */
 
-package com.temdisponivel.retrorace.colortraffic.model;
+package com.temdisponivel.colortraffic.model;
 
 import android.content.Intent;
 import android.graphics.Canvas;
-
-import com.temdisponivel.retrorace.colortraffic.view.GameOverAcitivity;
+import com.temdisponivel.colortraffic.view.GameOverAcitivity;
 
 import java.util.Random;
 

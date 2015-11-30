@@ -5,7 +5,7 @@
  * Victor Dias
  */
 
-package com.temdisponivel.retrorace.colortraffic.view;
+package com.temdisponivel.colortraffic.view;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -13,9 +13,8 @@ import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.Button;
 import android.widget.SeekBar;
-
 import com.temdisponivel.retrorace.colortraffic.R;
-import com.temdisponivel.retrorace.colortraffic.model.ColorManager;
+import com.temdisponivel.colortraffic.model.ColorManager;
 
 public class MenuAcitivity extends AppCompatActivity implements SeekBar.OnSeekBarChangeListener {
 

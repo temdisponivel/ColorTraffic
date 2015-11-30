@@ -5,7 +5,7 @@
  * Victor Dias
  */
 
-package com.temdisponivel.retrorace.colortraffic.view;
+package com.temdisponivel.colortraffic.view;
 
 import android.content.Context;
 import android.view.MotionEvent;

@@ -5,16 +5,15 @@
  * Victor Dias
  */
 
-package com.temdisponivel.retrorace.colortraffic.view;
+package com.temdisponivel.colortraffic.view;
 
 import android.content.Context;
 import android.graphics.Canvas;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
-
-import com.temdisponivel.retrorace.colortraffic.model.Game;
-import com.temdisponivel.retrorace.colortraffic.model.GameManager;
-import com.temdisponivel.retrorace.colortraffic.model.PlayerCar;
+import com.temdisponivel.colortraffic.model.Game;
+import com.temdisponivel.colortraffic.model.GameManager;
+import com.temdisponivel.colortraffic.model.PlayerCar;
 
 /**
  * A abstraction of surface view to the game logic.

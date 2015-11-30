@@ -5,7 +5,7 @@
  * Victor Dias
  */
 
-package com.temdisponivel.retrorace.colortraffic.view;
+package com.temdisponivel.colortraffic.view;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;

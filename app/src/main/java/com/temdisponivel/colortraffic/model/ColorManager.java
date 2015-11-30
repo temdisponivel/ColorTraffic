@@ -1,4 +1,4 @@
-package com.temdisponivel.retrorace.colortraffic.model;
+package com.temdisponivel.colortraffic.model;
 
 import android.graphics.Color;
 
